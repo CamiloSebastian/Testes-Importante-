@@ -1,0 +1,2 @@
+Um sistema básico no MySQL que realiza operações matemáticas simples (+, -, *, /) de forma automática através de um gatilho (trigger).
+Bem simples, configurado apenas para INSERT (sem UPDATE), onde o resultado é calculado e armazenado automaticamente na tabela.
